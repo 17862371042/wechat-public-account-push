@@ -36,7 +36,7 @@ const USER_CONFIG = {
           type: '生日', name: '臭宝', year: '2001', date: '01-13',
         },
         {
-          type: '节日', name: '相识纪念日', year: '2020', date: '09-03',
+          type: '节日', name: '相识纪念日', year: '2022', date: '04-05',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
